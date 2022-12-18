@@ -1,2 +1,1 @@
-# KPI_labs
-Repository for KPI labs
+Do not read me
